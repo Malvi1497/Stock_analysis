@@ -24,4 +24,4 @@ From the results we can observe that 2017 was really good year for investing exe
 ### Advantages of refactoring the code
 The advantages of refactoring the code for this analysis was cleaner and very well organised. The biggest advantage of refactoring the code was to show, with the help of a timer,that the code ran within .5 seconds for both years.
 ### Pros and Cons of refactoring the code
-Pros of refactoring the code is that it helps with running the code clean and fast. It helps to organize the code in a way to understand it however the disadvantage is that it can become messy if the application is too big.
+The pros of refactoring the code are it helps in running the code in a clean and quick manner. It helps to organize the code in a way to understand it. However, the disadvantage is that it can become messy if the application is too big.
