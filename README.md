@@ -13,5 +13,9 @@ The analysis was performed on the VBA editor using the information given. The da
 * Lowest price and
 * The Volume of the stock
 ## Results
-The results were displayed in the excel sheet. They were formatted to show if there was an increase in the yearly return of the ticker for the year, the cell will be highlighted in green and if there was a decrease the cell will be shaded in red. This helped the client visualize the data better.
-![This is an image]
+The results were displayed in the excel sheet. They were formatted to show if there was an increase in the yearly return of the ticker for the year, the cell will be highlighted in green and if there was a decrease the cell will be shaded in red. This helped the client visualize the data better as shown in the images below.
+### Stock Analysis for the Year: 2017
+![2017](https://user-images.githubusercontent.com/94252681/154615202-f5455e54-89b4-43c0-9ad5-a36042578c24.png)
+### Stock Analysis for the Year 2018
+![image](https://user-images.githubusercontent.com/94252681/154615335-04942910-4965-4c6e-ade6-6adc43733f87.png)
+## 
