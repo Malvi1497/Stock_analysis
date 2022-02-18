@@ -21,5 +21,5 @@ The results were displayed in the excel sheet. They were formatted to show if th
 ![image](https://user-images.githubusercontent.com/94252681/154615335-04942910-4965-4c6e-ade6-6adc43733f87.png)
 ## Conclusion
 From the results we can see that 2017 was really good year for investing whereas in 2018 the stocks fell drastically except for the tickers "RUN" and "ENPH". 
-### Advantages and Dis
-The code for this analysis was cleaner and very well organised. The biggest advantage of the code was to show with the help of a timer we can also see that the code ran within .5 seconds.
+### Advantages and Disadvantages
+The advantages of refactoring the code for this analysis was cleaner and very well organised. The biggest advantage of the code was to show with the help of a timer we can also see that the code ran within .5 seconds for both years.
