@@ -11,5 +11,7 @@ The analysis was performed on the VBA editor using the information given. The da
 * Adjusted price
 * Highest price
 * Lowest price and
-* The volume of the stock
-> 
+* The Volume of the stock
+## Results
+The results were displayed in the excel sheet. They were formatted to show if there was an increase in the yearly return of the ticker for the year, the cell will be highlighted in green and if there was a decrease the cell will be shaded in red. This helped the client visualize the data better.
+![This is an image]
